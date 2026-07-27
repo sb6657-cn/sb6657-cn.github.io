@@ -1,0 +1,1 @@
+function e(e){return e?e.replace(`T`,` `).split(`.`)[0]:``}export{e as t};
