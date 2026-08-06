@@ -1,1 +1,0 @@
-import{Jt as e,Lt as t,Yt as n,_n as r,wn as i}from"./@element-plus.CutSt5QU.js";r(),t();var a=e=>new Promise(t=>setTimeout(t,e));function o(){let t=i(!1),r=null;function a(e){t.value=e.matches}return e(()=>{r=window.matchMedia(`(max-width: 600px)`),t.value=r.matches,r.addEventListener(`change`,a)}),n(()=>{r&&r.removeEventListener(`change`,a)}),t}export{o as n,a as t};
