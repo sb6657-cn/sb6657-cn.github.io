@@ -1,1 +1,0 @@
-import{h as e}from"./index.D8nKMtAe.js";var t={};function n(e,t){return null}var r=e(t,[[`render`,n]]);export{r as default};
