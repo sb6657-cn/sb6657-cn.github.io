@@ -1,0 +1,1 @@
+function e(e){return{...e,comments:Array.isArray(e.comments)?e.comments:[],showComments:!1}}function t(e){return e.date?.trim()||`未命名照片`}function n(e){if(!e)return``;let t=new Date(e);return Number.isNaN(t.getTime())?e:t.toLocaleString()}export{t as n,e as r,n as t};
